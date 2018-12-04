@@ -1,0 +1,19 @@
+@charset "utf-8";
+/* CSS Document */
+
+.navbar {
+	background-color: red !important;
+}
+
+.navbar-toggler {
+	background-color: transparent !important;
+}
+
+.nav-link {
+	color: white !important;
+}
+
+#rodape {
+	margin-top: 40px;
+}
+
