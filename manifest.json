@@ -1,13 +1,13 @@
 {
-  "name": "Calculadora",
-  "short_name": "Calculadora",
+  "name": "ADEXS",
+  "short_name": "ADEXS",
   "theme_color": "#2196f3",
   "background_color": "#2196f3",
   "display": "fullscreen",
   "Scope": "./",
   "start_url": "./index.html",
   "icons": [
-    {
+     {
       "src": "images/icons/icon-72x72.png",
       "sizes": "72x72",
       "type": "image/png"
